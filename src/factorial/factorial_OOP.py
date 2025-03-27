@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #*-------------------------------------------------------------------------*
-#* factorial.py                                                            *
+#* factorial_OOP.py                                                        *
 #* calcula el factorial de un número usando POO                            *
 #* Dr.P.E.Colla (c) 2022                                                   *
 #* Creative commons                                                        *
