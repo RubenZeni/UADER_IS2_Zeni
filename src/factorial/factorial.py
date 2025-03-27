@@ -27,7 +27,9 @@ else:
 
 # Verificar si es un rango
 if "-" in entrada:
-    desde, hasta = map(int, entrada.split("-"))
+    partes = entrada.split("-")
+    desde = int(partes[0]) if partes[0] else 1
+    hasta = int(partes[1]) if partes[1] else 60
 else:
     desde, hasta = int(entrada), int(entrada)
 
