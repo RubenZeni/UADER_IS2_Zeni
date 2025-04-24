@@ -1,0 +1,18 @@
+************* Module chat
+src/chat.py:88:0: C0301: Line too long (102/100) (line-too-long)
+src/chat.py:109:0: C0304: Final newline missing (missing-final-newline)
+src/chat.py:13:0: E0401: Unable to import 'openai' (import-error)
+src/chat.py:14:0: E0401: Unable to import 'dotenv' (import-error)
+src/chat.py:25:0: C0103: Constant name "ultima_consulta" doesn't conform to UPPER_CASE naming style (invalid-name)
+src/chat.py:35:4: W0603: Using the global statement (global-statement)
+src/chat.py:43:11: W0718: Catching too general exception Exception (broad-exception-caught)
+src/chat.py:58:11: W0718: Catching too general exception Exception (broad-exception-caught)
+src/chat.py:80:11: W0718: Catching too general exception Exception (broad-exception-caught)
+src/chat.py:93:4: W0602: Using global for 'ultima_consulta' but no assignment is done (global-variable-not-assigned)
+src/chat.py:15:0: C0411: standard import "os" should be placed before third party imports "openai.OpenAI", "dotenv.load_dotenv" (wrong-import-order)
+src/chat.py:16:0: C0411: standard import "readline" should be placed before third party imports "openai.OpenAI", "dotenv.load_dotenv" (wrong-import-order)
+src/chat.py:17:0: C0411: standard import "sys" should be placed before third party imports "openai.OpenAI", "dotenv.load_dotenv" (wrong-import-order)
+
+-----------------------------------
+Your code has been rated at 6.18/10
+

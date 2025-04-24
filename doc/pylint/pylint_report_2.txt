@@ -1,0 +1,9 @@
+************* Module chat
+src/chat.py:104:0: C0304: Final newline missing (missing-final-newline)
+src/chat.py:26:0: C0103: Constant name "_last_query" doesn't conform to UPPER_CASE naming style (invalid-name)
+src/chat.py:34:4: W0603: Using the global statement (global-statement)
+src/chat.py:74:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.27/10 (previous run: 6.18/10, +3.09)
+
