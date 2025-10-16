@@ -1,0 +1,16 @@
+************* Module getJason_refactor
+getJason_refactor.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+getJason_refactor.py:1:0: C0103: Module name "getJason_refactor" doesn't conform to snake_case naming style (invalid-name)
+getJason_refactor.py:20:4: C0116: Missing function or method docstring (missing-function-docstring)
+getJason_refactor.py:17:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+getJason_refactor.py:28:0: W0613: Unused argument 'args' (unused-argument)
+getJason_refactor.py:28:0: W0613: Unused argument 'kwargs' (unused-argument)
+getJason_refactor.py:38:17: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+getJason_refactor.py:41:12: W0707: Consider explicitly re-raising using 'raise RuntimeError(f'ERROR: JSON inválido: {e}') from e' (raise-missing-from)
+getJason_refactor.py:47:0: C0116: Missing function or method docstring (missing-function-docstring)
+getJason_refactor.py:72:0: C0116: Missing function or method docstring (missing-function-docstring)
+getJason_refactor.py:87:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 7.76/10 (previous run: 7.76/10, +0.00)
+
