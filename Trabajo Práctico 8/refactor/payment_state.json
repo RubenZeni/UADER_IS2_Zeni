@@ -1,0 +1,38 @@
+{
+  "balances": {
+    "token1": 0.0,
+    "token2": 400.0
+  },
+  "history": [
+    {
+      "order_num": 1,
+      "token": "token1",
+      "key": "C598-ECF9-F0F7-881A",
+      "amount": 500.0
+    },
+    {
+      "order_num": 2,
+      "token": "token2",
+      "key": "C598-ECF9-F0F7-881B",
+      "amount": 500.0
+    },
+    {
+      "order_num": 3,
+      "token": "token2",
+      "key": "C598-ECF9-F0F7-881B",
+      "amount": 600.0
+    },
+    {
+      "order_num": 1,
+      "token": "token2",
+      "key": "C598-ECF9-F0F7-881B",
+      "amount": 500.0
+    },
+    {
+      "order_num": 2,
+      "token": "token1",
+      "key": "C598-ECF9-F0F7-881A",
+      "amount": 500.0
+    }
+  ]
+}

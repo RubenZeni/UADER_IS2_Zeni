@@ -1,0 +1,17 @@
+************* Module getJason_refactor_v3
+getJason_refactor_v3.py:5:0: C0301: Line too long (104/100) (line-too-long)
+getJason_refactor_v3.py:9:0: C0301: Line too long (105/100) (line-too-long)
+getJason_refactor_v3.py:10:0: C0301: Line too long (106/100) (line-too-long)
+getJason_refactor_v3.py:343:67: C0303: Trailing whitespace (trailing-whitespace)
+getJason_refactor_v3.py:377:0: C0301: Line too long (102/100) (line-too-long)
+getJason_refactor_v3.py:1:0: C0103: Module name "getJason_refactor_v3" doesn't conform to snake_case naming style (invalid-name)
+getJason_refactor_v3.py:51:8: W0107: Unnecessary pass statement (unnecessary-pass)
+getJason_refactor_v3.py:42:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+getJason_refactor_v3.py:197:4: W0107: Unnecessary pass statement (unnecessary-pass)
+getJason_refactor_v3.py:329:15: W0718: Catching too general exception Exception (broad-exception-caught)
+getJason_refactor_v3.py:399:0: R0914: Too many local variables (17/15) (too-many-locals)
+getJason_refactor_v3.py:470:15: W0718: Catching too general exception Exception (broad-exception-caught)
+
+-----------------------------------
+Your code has been rated at 9.32/10
+

@@ -1,0 +1,8 @@
+************* Module getJason_refactor_v2
+getJason_refactor_v2.py:1:0: C0103: Module name "getJason_refactor_v2" doesn't conform to snake_case naming style (invalid-name)
+getJason_refactor_v2.py:31:8: W0107: Unnecessary pass statement (unnecessary-pass)
+getJason_refactor_v2.py:22:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+
+-----------------------------------
+Your code has been rated at 9.32/10
+
